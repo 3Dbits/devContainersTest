@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "cd react-devcon-test/ && npm install && npm start"
+	"postCreateCommand": "cd react-devcon-test/ && npm install"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
